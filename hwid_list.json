@@ -1,0 +1,7 @@
+{
+  "allowed_hwids": [
+    "ab12cd34ef56gh78ij90kl12mn34op56qr78st90uv12wx34yz56",
+    "another_hwid_hash_here",
+    "third_hwid_hash_here"
+  ]
+}
