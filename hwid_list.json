@@ -43,6 +43,10 @@
         {
             "username": "test",
             "hwid": "cd6f5989839b48d072195bbd9d6240a1601d3cd7ffb0c9ed401cac3911a4e42d"
+        },
+        {
+            "username": "1 month",
+            "hwid": "d57c11b35a2a92307934e3227d2a3dbd7a82886b355aa1e28309dd3113f225af"
         }
     ]
 }
