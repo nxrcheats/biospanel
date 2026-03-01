@@ -43,6 +43,10 @@
         {
             "username": "NXR",
             "hwid": ""
+        },
+        {
+            "username": "client-2",
+            "hwid": "cdae197644cbe36808c8f1a4f26c048ed41fa83d4c3337189718b52ce2ffb011"
         }
     ]
 }
