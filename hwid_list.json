@@ -47,10 +47,6 @@
         {
             "username": "client-2",
             "hwid": "cdae197644cbe36808c8f1a4f26c048ed41fa83d4c3337189718b52ce2ffb011"
-        },
-        {
-            "username": "client-1m",
-            "hwid": "d92bfd49658313371f35d9973da4a32c466e7ac54ee8632ced47c64bf638ef6e"
         }
     ]
 }
