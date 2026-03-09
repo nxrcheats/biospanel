@@ -48,6 +48,11 @@
             "username": "italy client -0",
             "hwid": "47c2448bb00a4085bf8a3cf43d3554cb7b05030bfb3bbf569c02a676ac46449e",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "kawsar client -(0)",
+            "hwid": "f847e6b1fd85f6d89b61f080d9825091777905e70532b3f35683bee148d63461",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
