@@ -53,6 +53,11 @@
             "username": "kawsar client -(0)",
             "hwid": "f847e6b1fd85f6d89b61f080d9825091777905e70532b3f35683bee148d63461",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "supporter phy",
+            "hwid": "7af3c38c418bc8f8364e952732fd0d0fe79f0afeccbede687a171dce73ff722c",
+            "expiryDate": "2038-11-11"
         }
     ]
 }
