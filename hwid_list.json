@@ -54,6 +54,11 @@
             "username": "supporter phy",
             "hwid": "7af3c38c418bc8f8364e952732fd0d0fe79f0afeccbede687a171dce73ff722c",
             "expiryDate": "2038-11-11"
+        },
+        {
+            "username": "ariyan-1m",
+            "hwid": "6143157962c5e8fc8c4aead08be647308a540466cb5cacf2827580ec0f0f44cf",
+            "expiryDate": "2026-03-24"
         }
     ]
 }
