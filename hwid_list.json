@@ -65,6 +65,11 @@
             "username": "monirul5--0",
             "hwid": "c668f9f015b74c7ff596d4e61367f6204c22a80efd68a8bc54bcd0fe64e8b9cd",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "jubair-0",
+            "hwid": "7bbac1ae88dfcb771780b59cdcc302547c52566971d2593ab335753b8b8f25bd",
+            "expiryDate": "11111-11-11"
         }
     ]
 }
