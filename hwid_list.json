@@ -81,6 +81,11 @@
             "username": "italy client-0",
             "hwid": "47c2448bb00a4085bf8a3cf43d3554cb7b05030bfb3bbf569c02a676ac46449e",
             "expiryDate": "11111-11-11"
+        },
+        {
+            "username": "zet-1m",
+            "hwid": "200579b73131ca4a62ce207261a408b3d38d62097200bf06625506f648ee2711",
+            "expiryDate": "2026-04-02"
         }
     ]
 }
