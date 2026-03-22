@@ -72,6 +72,11 @@
             "username": "zet-1--m",
             "hwid": "200579b73131ca4a62ce207261a408b3d38d62097200bf06625506f648ee2711",
             "expiryDate": "2026-04-02"
+        },
+        {
+            "username": "mashfi",
+            "hwid": "7409dd46aa8f4bdfbc103cf7b2e74d41544c15c88af0e0951bbc9824d54da29e",
+            "expiryDate": "2026-04-18"
         }
     ]
 }
