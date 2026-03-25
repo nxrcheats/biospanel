@@ -77,6 +77,11 @@
             "username": "nur(0)",
             "hwid": "5ef400e9da8ddca0d6ff86b898f0fe522ac2d7c180d9b5fc80494c77d5f98e55",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "",
+            "hwid": "68945753251c5c7d64b56727e6971aeda44a669f441a9a06446cd594e9b91708",
+            "expiryDate": "2026-04-18"
         }
     ]
 }
