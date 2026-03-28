@@ -82,6 +82,11 @@
             "username": "zet-(1)",
             "hwid": "200579b73131ca4a62ce207261a408b3d38d62097200bf06625506f648ee2711",
             "expiryDate": "2026-04-02"
+        },
+        {
+            "username": "torki 7 day",
+            "hwid": "6e2ecf4e8822311b601e45ae853b81a3e82424b7acb2bf55a207920c0e832393",
+            "expiryDate": "2026-04-05"
         }
     ]
 }
