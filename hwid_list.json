@@ -87,6 +87,11 @@
             "username": "torki 7 day",
             "hwid": "6e2ecf4e8822311b601e45ae853b81a3e82424b7acb2bf55a207920c0e832393",
             "expiryDate": "2026-04-05"
+        },
+        {
+            "username": "client",
+            "hwid": "748af239617666ac22f102bde162927d1248d328042aa6c824e2e4d26f1d2680",
+            "expiryDate": "2026-04-30"
         }
     ]
 }
