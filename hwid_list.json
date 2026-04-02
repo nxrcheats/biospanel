@@ -97,6 +97,11 @@
             "username": "fckup-1m",
             "hwid": "391e653bba24b3de2b83ec3bbbf1e171c44c2dee7a06d0eac6d4276216a1aae2",
             "expiryDate": "2026-05-02"
+        },
+        {
+            "username": "Svnth",
+            "hwid": "303566ca3ae619dc1522aa66fe46932b97092c7d3190d07faf7e2a7f845f642a",
+            "expiryDate": "2026-05-02"
         }
     ]
 }
