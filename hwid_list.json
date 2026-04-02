@@ -92,6 +92,11 @@
             "username": "uk-1m",
             "hwid": "748af239617666ac22f102bde162927d1248d328042aa6c824e2e4d26f1d2680",
             "expiryDate": "2026-04-20"
+        },
+        {
+            "username": "fckup-1m",
+            "hwid": "391e653bba24b3de2b83ec3bbbf1e171c44c2dee7a06d0eac6d4276216a1aae2",
+            "expiryDate": "2026-05-02"
         }
     ]
 }
