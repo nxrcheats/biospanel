@@ -107,6 +107,11 @@
             "username": "brazil DG 1 month ",
             "hwid": "d01c9f41933cc2e2853e3ca6e44ec80a7d805d556e30abb92ab1bdfd0690a84e",
             "expiryDate": "2026-05-02"
+        },
+        {
+            "username": "zet-1m",
+            "hwid": "200579b73131ca4a62ce207261a408b3d38d62097200bf06625506f648ee2711",
+            "expiryDate": "2026-05-02"
         }
     ]
 }
