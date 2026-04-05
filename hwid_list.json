@@ -122,6 +122,11 @@
             "username": "ALIF ID CNG ",
             "hwid": "6d9a51d0147f05b825c836845cb418c0ee7d94e08ebe1b0f71e9c1c0c5828661",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "cedar-alif-(0)",
+            "hwid": "01822903efa489378a41566ed233b0b6cdbe0a9b056835774132d081f1186c59",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
