@@ -122,6 +122,11 @@
             "username": "sourov freee",
             "hwid": "0a9086c1a6908886d2edec4b3eac5194f19d3ffdc655d50926077b0dfc621a5c",
             "expiryDate": "11111-11-11"
+        },
+        {
+            "username": "alif id exchange",
+            "hwid": "6d9a51d0147f05b825c836845cb418c0ee7d94e08ebe1b0f71e9c1c0c5828661",
+            "expiryDate": "2030-02-22"
         }
     ]
 }
