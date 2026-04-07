@@ -2,7 +2,8 @@
     "allowed_hwids": [
         {
             "username": "JIM",
-            "hwid": "b7e75ffaa7f1283cf2b1fff11b5759bc738e118e96968b83986b0f1fcb675cb9"
+            "hwid": "b7e75ffaa7f1283cf2b1fff11b5759bc738e118e96968b83986b0f1fcb675cb9",
+            "paused": true
         },
         {
             "username": "arnob",
@@ -128,6 +129,5 @@
             "hwid": "01822903efa489378a41566ed233b0b6cdbe0a9b056835774132d081f1186c59",
             "expiryDate": "2030-11-11"
         }
-    ],
-    "frozen": false
+    ]
 }
