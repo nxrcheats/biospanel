@@ -129,6 +129,11 @@
             "username": "fckup-1m",
             "hwid": "5dd783f9c85e3e140a0de2d6146cb8c3463e360c43a5c6665029d4c185b31542",
             "expiryDate": "2026-05-02"
+        },
+        {
+            "username": "monirul5",
+            "hwid": "5016b708363211973edab85d7f8a003e23deccae19d0e7802bdff02dbb47f2cf",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
