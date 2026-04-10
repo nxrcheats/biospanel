@@ -145,6 +145,11 @@
             "username": "arnob-wp jubair",
             "hwid": "5e88a4ce5af670494d66e8112915e6c11faf688aa2a4b51ed2ee1e238e9f5a04",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "heist",
+            "hwid": "d57c11b35a2a92307934e3227d2a3dbd7a82886b355aa1e28309dd3113f225af",
+            "expiryDate": "2026-11-01"
         }
     ]
 }
