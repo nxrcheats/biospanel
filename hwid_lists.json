@@ -139,6 +139,11 @@
             "username": "freeloow-1m",
             "hwid": "59a6c9924ae3f9f30c03dbc8a86e9ce8853b622a05448b125edaf7b7cb508f20",
             "expiryDate": "2026-04-22"
+        },
+        {
+            "username": "sazib-kawser client",
+            "hwid": "f847e6b1fd85f6d89b61f080d9825091777905e70532b3f35683bee148d63461",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
