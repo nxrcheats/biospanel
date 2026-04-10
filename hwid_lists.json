@@ -139,6 +139,11 @@
             "username": "cedar-alif",
             "hwid": "01822903efa489378a41566ed233b0b6cdbe0a9b056835774132d081f1186c59",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "freeloow-1m",
+            "hwid": "59a6c9924ae3f9f30c03dbc8a86e9ce8853b622a05448b125edaf7b7cb508f20",
+            "expiryDate": "2026-04-22"
         }
     ]
 }
