@@ -134,6 +134,11 @@
             "username": "Andales-doller",
             "hwid": "eed959f844e99ccc8b39549a86633465e7701d5f23a316ece38e11bda31f90bc",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "Svnth-1m",
+            "hwid": "303566ca3ae619dc1522aa66fe46932b97092c7d3190d07faf7e2a7f845f642a",
+            "expiryDate": "2026-05-02"
         }
     ]
 }
