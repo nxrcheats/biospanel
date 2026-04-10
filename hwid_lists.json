@@ -145,6 +145,11 @@
             "username": "heist",
             "hwid": "d57c11b35a2a92307934e3227d2a3dbd7a82886b355aa1e28309dd3113f225af",
             "expiryDate": "2026-11-01"
+        },
+        {
+            "username": "toufikul",
+            "hwid": "bb8f907a0fe1664fa7e8b76742e72eb7c4ee5221779b5e1c1ede3dd394b2d8c5",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
