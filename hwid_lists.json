@@ -145,6 +145,11 @@
             "username": "toufikul",
             "hwid": "bb8f907a0fe1664fa7e8b76742e72eb7c4ee5221779b5e1c1ede3dd394b2d8c5",
             "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "cedar-alif",
+            "hwid": "71a04f943670bc5b480105627c2c5ef41ab71773539d4ba5290aaf46fd6fc355",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
