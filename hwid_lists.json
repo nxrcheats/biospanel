@@ -156,6 +156,11 @@
             "username": "NXR",
             "hwid": "f5c4c6ababc2e0a51a659478cb6c85b968d5ad334869cb9cd32ace0601152b22",
             "expiryDate": "2030-12-12"
+        },
+        {
+            "username": "redblocker",
+            "hwid": "7de1761237add0f17fc5fb3829d5bb57dd1b6adaa04f622cbb5e75692171021f",
+            "expiryDate": "2030-11-11"
         }
     ]
 }
