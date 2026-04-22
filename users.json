@@ -1,5 +1,4 @@
 [
-    
     {
         "username": "admin1",
         "password": "adminpass123",
@@ -9,6 +8,12 @@
     {
         "username": "ANTOR",
         "password": "ANTOR1234@",
+        "role": "user",
+        "createdBy": "NXR"
+    },
+    {
+        "username": "ERROR",
+        "password": "ERROR1234@",
         "role": "user",
         "createdBy": "NXR"
     }
