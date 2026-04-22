@@ -1,174 +1,209 @@
 {
     "allowed_hwids": [
         {
-            "username": "JIM",
+            "username": "ANTOR",
+            "displayUsername": "JIM",
             "hwid": "b7e75ffaa7f1283cf2b1fff11b5759bc738e118e96968b83986b0f1fcb675cb9",
             "paused": false
         },
         {
-            "username": "1 month",
+            "username": "ANTOR",
+            "displayUsername": "1 month",
             "hwid": "d57c11b35a2a92307934e3227d2a3dbd7a82886b355aa1e28309dd3113f225af"
         },
         {
-            "username": "client-2",
+            "username": "ANTOR",
+            "displayUsername": "client-2",
             "hwid": "cdae197644cbe36808c8f1a4f26c048ed41fa83d4c3337189718b52ce2ffb011"
         },
         {
-            "username": "1-m client",
+            "username": "ANTOR",
+            "displayUsername": "1-m client",
             "hwid": "d92bfd49658313371f35d9973da4a32c466e7ac54ee8632ced47c64bf638ef6e"
         },
         {
-            "username": "supporter phy",
+            "username": "ANTOR",
+            "displayUsername": "supporter phy",
             "hwid": "7af3c38c418bc8f8364e952732fd0d0fe79f0afeccbede687a171dce73ff722c",
             "expiryDate": "2038-11-11"
         },
         {
-            "username": "jubair-0",
+            "username": "ANTOR",
+            "displayUsername": "jubair-0",
             "hwid": "7bbac1ae88dfcb771780b59cdcc302547c52566971d2593ab335753b8b8f25bd",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": "supporter rubel",
+            "username": "ANTOR",
+            "displayUsername": "supporter rubel",
             "hwid": "ce29bf2b02542afadaec6fb84f7830f3038d317c93af0b5a4073fdb27f424d7f",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": "italy client-0",
+            "username": "ANTOR",
+            "displayUsername": "italy client-0",
             "hwid": "47c2448bb00a4085bf8a3cf43d3554cb7b05030bfb3bbf569c02a676ac46449e",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": "nur(0)",
+            "username": "ANTOR",
+            "displayUsername": "nur(0)",
             "hwid": "5ef400e9da8ddca0d6ff86b898f0fe522ac2d7c180d9b5fc80494c77d5f98e55",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "brazil DG 1 month ",
+            "username": "ANTOR",
+            "displayUsername": "brazil DG 1 month ",
             "hwid": "d01c9f41933cc2e2853e3ca6e44ec80a7d805d556e30abb92ab1bdfd0690a84e",
             "expiryDate": "2026-05-02"
         },
         {
-            "username": "zet-1m",
+            "username": "ANTOR",
+            "displayUsername": "zet-1m",
             "hwid": "200579b73131ca4a62ce207261a408b3d38d62097200bf06625506f648ee2711",
             "expiryDate": "2026-05-02"
         },
         {
-            "username": "swmz44-1m",
+            "username": "ANTOR",
+            "displayUsername": "swmz44-1m",
             "hwid": "198497b453243211d51c9c4b988f8bc59f4e96864114bbbfea20a494afdcdb4c",
             "expiryDate": "2026-05-04"
         },
         {
-            "username": "sourov freee",
+            "username": "ANTOR",
+            "displayUsername": "sourov freee",
             "hwid": "0a9086c1a6908886d2edec4b3eac5194f19d3ffdc655d50926077b0dfc621a5c",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": "ALIF ID CNG ",
+            "username": "ANTOR",
+            "displayUsername": "ALIF ID CNG ",
             "hwid": "6d9a51d0147f05b825c836845cb418c0ee7d94e08ebe1b0f71e9c1c0c5828661",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "mxa",
+            "username": "ANTOR",
+            "displayUsername": "mxa",
             "hwid": "691549a18ad8b14533c1f1f02a3344c06609944afbb367f3bae425a16530ff64",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": ".MXA",
+            "username": "ANTOR",
+            "displayUsername": ".MXA",
             "hwid": "691549a18ad8b14533c1f1f02a3344c06609944afbb367f3bae425a16530ff64",
             "expiryDate": "11111-11-11"
         },
         {
-            "username": "fckup-1m",
+            "username": "ANTOR",
+            "displayUsername": "fckup-1m",
             "hwid": "5dd783f9c85e3e140a0de2d6146cb8c3463e360c43a5c6665029d4c185b31542",
             "expiryDate": "2026-05-02"
         },
         {
-            "username": "Andales-doller",
+            "username": "ANTOR",
+            "displayUsername": "Andales-doller",
             "hwid": "eed959f844e99ccc8b39549a86633465e7701d5f23a316ece38e11bda31f90bc",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "Svnth-1m",
+            "username": "ANTOR",
+            "displayUsername": "Svnth-1m",
             "hwid": "303566ca3ae619dc1522aa66fe46932b97092c7d3190d07faf7e2a7f845f642a",
             "expiryDate": "2026-05-02"
         },
         {
-            "username": "freeloow-1m",
+            "username": "ANTOR",
+            "displayUsername": "freeloow-1m",
             "hwid": "59a6c9924ae3f9f30c03dbc8a86e9ce8853b622a05448b125edaf7b7cb508f20",
             "expiryDate": "2026-04-22"
         },
         {
-            "username": "sazib-kawser client",
+            "username": "ANTOR",
+            "displayUsername": "sazib-kawser client",
             "hwid": "f847e6b1fd85f6d89b61f080d9825091777905e70532b3f35683bee148d63461",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "monirul5",
+            "username": "ANTOR",
+            "displayUsername": "monirul5",
             "hwid": "5016b708363211973edab85d7f8a003e23deccae19d0e7802bdff02dbb47f2cf",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "arnob-wp jubair",
+            "username": "ANTOR",
+            "displayUsername": "arnob-wp jubair",
             "hwid": "5e88a4ce5af670494d66e8112915e6c11faf688aa2a4b51ed2ee1e238e9f5a04",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "heist",
+            "username": "ANTOR",
+            "displayUsername": "heist",
             "hwid": "d57c11b35a2a92307934e3227d2a3dbd7a82886b355aa1e28309dd3113f225af",
             "expiryDate": "2026-11-01"
         },
         {
-            "username": "toufikul",
+            "username": "ANTOR",
+            "displayUsername": "toufikul",
             "hwid": "bb8f907a0fe1664fa7e8b76742e72eb7c4ee5221779b5e1c1ede3dd394b2d8c5",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "cedar-alif",
+            "username": "ANTOR",
+            "displayUsername": "cedar-alif",
             "hwid": "71a04f943670bc5b480105627c2c5ef41ab71773539d4ba5290aaf46fd6fc355",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "maxxico -alian(0)",
+            "username": "ANTOR",
+            "displayUsername": "maxxico -alian(0)",
             "hwid": "4925fff3dbf01a50d1c0b7d7edfb9ee0e7e4d4c4f0aa74219de1ad81f5036ca0",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "shadowdevil6932-(0)",
+            "username": "ANTOR",
+            "displayUsername": "shadowdevil6932-(0)",
             "hwid": "ab38fd5916670034959d0849b9617ea79cab2ca72a9c5052fdfff3db8d73476b",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "NXR",
+            "username": "ANTOR",
+            "displayUsername": "NXR",
             "hwid": "1e3295b82605f1a0249f8cae5be58ee83da83433ae9c9efa732f12485a649b92",
             "expiryDate": "2030-12-12"
         },
         {
-            "username": "redblocker",
+            "username": "ANTOR",
+            "displayUsername": "redblocker",
             "hwid": "7de1761237add0f17fc5fb3829d5bb57dd1b6adaa04f622cbb5e75692171021f",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "Shimul Parves-1m",
+            "username": "ANTOR",
+            "displayUsername": "Shimul Parves-1m",
             "hwid": "f6a827677625b0ebc26cb93a2e84d5619d3bfae3ba2010ddd0c67f8a0ef6cb3b",
             "expiryDate": "2026-05-18"
         },
         {
-            "username": "biasswass",
+            "username": "ANTOR",
+            "displayUsername": "biasswass",
             "hwid": "748af239617666ac22f102bde162927d1248d328042aa6c824e2e4d26f1d2680",
             "expiryDate": "2026-05-02"
         },
         {
-            "username": "Screyw",
+            "username": "ANTOR",
+            "displayUsername": "Screyw",
             "hwid": "52b46644ac7f424783f91ad79c5f34ba84f028bbc23df8e4784a13cbcc754d92",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "gaysourov",
+            "username": "ANTOR",
+            "displayUsername": "gaysourov",
             "hwid": "0a9086c1a6908886d2edec4b3eac5194f19d3ffdc655d50926077b0dfc621a5c",
             "expiryDate": "2030-11-11"
         },
         {
-            "username": "freelow",
+            "username": "ANTOR",
+            "displayUsername": "freelow",
             "hwid": "366e25ee85ea67639fd929ff3b20d18b66c8e65ffe3df4e2abf878ff664638d1",
             "expiryDate": "2026-04-22"
         }
