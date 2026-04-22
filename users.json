@@ -1,0 +1,15 @@
+[
+    
+    {
+        "username": "admin1",
+        "password": "adminpass123",
+        "role": "user",
+        "createdBy": "ERROR"
+    },
+    {
+        "username": "ANTOR",
+        "password": "ANTOR1234@",
+        "role": "user",
+        "createdBy": "NXR"
+    }
+]
