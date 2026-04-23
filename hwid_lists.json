@@ -206,6 +206,12 @@
             "displayUsername": "freelow",
             "hwid": "366e25ee85ea67639fd929ff3b20d18b66c8e65ffe3df4e2abf878ff664638d1",
             "expiryDate": "2026-04-22"
+        },
+        {
+            "username": "ERROR",
+            "displayUsername": "EMON",
+            "hwid": "bc0ad23dc92bd2e8782e018556782875ce6cc60fa0e83b310e47563fdb681872",
+            "expiryDate": "2027-12-20"
         }
     ]
 }
