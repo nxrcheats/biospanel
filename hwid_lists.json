@@ -212,6 +212,12 @@
             "displayUsername": "EMON",
             "hwid": "bc0ad23dc92bd2e8782e018556782875ce6cc60fa0e83b310e47563fdb681872",
             "expiryDate": "2027-12-20"
+        },
+        {
+            "username": "ERROR",
+            "displayUsername": "Rabbe",
+            "hwid": "e6c3e5ebeaa66accef60dabcd1173052526221307f11e89a8a1f34b7823ed3c1",
+            "expiryDate": "2030-10-10"
         }
     ]
 }
