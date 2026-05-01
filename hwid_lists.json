@@ -241,6 +241,11 @@
             "username": "ANTOR",
             "hwid": "4471d393-c4a2-4569-971b-25beb5cc1c7a",
             "expiryDate": ""
+        },
+        {
+            "username": "OVI",
+            "hwid": "edbc1d9802f086767c957c7e0f9f4f5e6118ded9226dee44f26e7c589a8b8ce9",
+            "expiryDate": ""
         }
     ]
 }
